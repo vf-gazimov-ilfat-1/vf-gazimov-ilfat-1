@@ -1,4 +1,4 @@
 # Личный проект "Фрукт"
 
-* Студент [Газимов Ильфат] [http://t.me/ducker_t]
-* Наставник [Вячеслав Федченко] [https://t.me/VecheclavFedchenko]
+* Студент [Газимов Ильфат] [http://t.me/elf1987]
+* Наставник [Вячеслав Федченко] [https://t.me/Vyacheslav_Fedchenko]
